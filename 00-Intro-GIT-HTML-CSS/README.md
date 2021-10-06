@@ -185,6 +185,7 @@ Todos los *tags* HTML pueden recibir el atributo `style`. Este atributo indica l
 Pros:
   * Fácil de escribir y leer.
   * Cómo se aplican a un sólo elemento no hay forma de confundirse y que se aplique la regla a un elemento no deseado.
+
 Cons:
   * La regla aplica a un sólo elemento, si quisieramos que varios elementos tengan la misma regla, deberíamos copypastear!
 
