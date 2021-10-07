@@ -1,0 +1,29 @@
+html{
+    background-color: rgb(245, 215, 141);
+}
+h1{
+    color: blue;
+}
+img{
+    width: 400px;
+}
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    flex-flow: wrap;
+    justify-content: center;
+    width: 100%;
+    margin: 0 auto;  
+}
+#thirdDid{
+    height: 600px;
+    width: 500px;
+    background-color: coral;
+    margin: 30px;
+    padding: 50px;
+    border: thick double #32a1ce;
+}
+#spanId{
+    font-size: 25px;
+    margin: 50px;
+}
